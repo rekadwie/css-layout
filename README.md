@@ -3,10 +3,9 @@ css-layout
 
 Css Layout Pack 
 
-<ul> list Layout :
+<ul> List Layout :
 <li>1 Column</li>
-<li>2 Column</li>
-<li>3 Column</li>
-<li>4 Column</li>
-<li></li>
+<li>2 Columns</li>
+<li>3 Columns</li>
+<li>4 Columns</li>
 </ul>
